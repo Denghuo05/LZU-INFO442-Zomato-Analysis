@@ -51,10 +51,10 @@ Our team has five members. The responsibilities are divided as follows to ensure
 
 | Role                           | Responsible member | Main duties                                                                                   |
 |--------------------------------|--------------------|-----------------------------------------------------------------------------------------------|
-| **Data Engineering Lead**      | Yuchen Zhang       | Data acquisition, cleaning, deduplication, missing value handling, type conversion; build a reproducible preprocessing pipeline. |
-| **Exploratory Analysis Lead**  | Zilin Wang         | Visualisation, correlation analysis, outlier detection; generate descriptive statistics and initial insights; support hypothesis testing. |
-| **Feature Engineering Lead**   | Wenxuan Wu         | Construct features (e.g., price bins, location aggregates), encode categorical variables, select/reduce features; collaborate with the modelling lead. |
-| **Modelling & Evaluation Lead**| Jiayang Li         | Select models (linear regression, random forest, XGBoost, etc.), perform train/test splits, hyperparameter tuning; compute metrics (RMSE, R²) and compare performance. |
-| **Communication & Delivery Lead** | Jiarui Zhai        | Manage project timeline, write proposal and final report, maintain GitHub repository (README, code organisation), prepare presentation slides; ensure results are interpretable and tell a coherent story. |
+| **Data Engineering Lead**      | Yuchen Zhang (zhy1188) | Data acquisition, cleaning, deduplication, missing value handling, type conversion; build a reproducible preprocessing pipeline. |
+| **Exploratory Analysis Lead**  | Zilin Wang (versta1ppen) | Visualisation, correlation analysis, outlier detection; generate descriptive statistics and initial insights; support hypothesis testing. |
+| **Feature Engineering Lead**   | Wenxuan Wu (Denghuo05) | Construct features (e.g., price bins, location aggregates), encode categorical variables, select/reduce features; collaborate with the modelling lead. |
+| **Modelling & Evaluation Lead**| Jiayang Li (jiangdachui495) | Select models (linear regression, random forest, XGBoost, etc.), perform train/test splits, hyperparameter tuning; compute metrics (RMSE, R²) and compare performance. |
+| **Communication & Delivery Lead** | Jiarui Zhai (JiaruiZhai) | Manage project timeline, write proposal and final report, maintain GitHub repository (README, code organisation), prepare presentation slides; ensure results are interpretable and tell a coherent story. |
 
 **Collaboration mechanism**: Every team member will also review or assist in at least one other area (e.g., Feature Engineering Lead helps with model interpretation, Communication Lead contributes to visualisation). All members participate in formulating and validating the scientific hypotheses.
